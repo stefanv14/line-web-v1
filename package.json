@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://stefanv14.github.io/line-web",
+  "homepage": "https://stefanv14.github.io/line-web-v1",
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
